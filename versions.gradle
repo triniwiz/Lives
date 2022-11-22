@@ -10,7 +10,7 @@ ext.versionNumbers = [
         junit       : '4.12',
 
         minSdk      : 16,
-        targetSdk   : 28,
+        targetSdk   : 33,
         versionCode : 4,
         versionName : '2.0.0',
 ]
