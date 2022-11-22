@@ -11,9 +11,9 @@ buildscript {
     dependencies {
         classpath libraries.kotlinGradle
         classpath libraries.gradle
-        classpath libraries.jfrog
-        classpath libraries.bintray
-        classpath libraries.androidMaven
+      //  classpath libraries.jfrog
+      //  classpath libraries.bintray
+      //  classpath libraries.androidMaven
     }
 }
 allprojects {
